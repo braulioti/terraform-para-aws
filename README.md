@@ -23,11 +23,11 @@ Aprenda de forma 100% prática como construir uma infraestrutura de Kubernetes e
 - ~~Clean up: Limpando Tudo~~
 
 ### Seção 3: Introdução ao Terraform e Início do Projeto
-- Arquitetura do Terraform
-- Instalação do Terraform
-- Terraform Workflow
-- Setup do Repositório no Github
-- Providers
+- ~~Arquitetura do Terraform~~
+- ~~Instalação do Terraform~~
+- ~~Terraform Workflow~~
+- ~~Setup do Repositório no Github~~
+- ~~Providers~~
 - Primeiro Recurso VPC
 - Terraform State
 - Migrando o backend do tfstate
