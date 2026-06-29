@@ -28,9 +28,9 @@ Aprenda de forma 100% prática como construir uma infraestrutura de Kubernetes e
 - ~~Terraform Workflow~~
 - ~~Setup do Repositório no Github~~
 - ~~Providers~~
-- Primeiro Recurso VPC
-- Terraform State
-- Migrando o backend do tfstate
+- ~~Primeiro Recurso VPC~~
+- ~~Terraform State~~
+- ~~Migrando o backend do tfstate~~
 - $ terraform fmt
 - Pre-commit hooks para Terraform
 - $ terraform validate
