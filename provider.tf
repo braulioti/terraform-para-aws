@@ -5,6 +5,13 @@ terraform {
       version = "4.48.0"
     }
   }
+
+  backend "s3" {
+    bucket = "comunidade-devops-braulio"
+    key    = "dev/terraform.tfstate"
+    region = "us-east-1"
+  }
+
 }
 
 # Configure the AWS Provider
