@@ -31,17 +31,23 @@ Aprenda de forma 100% prática como construir uma infraestrutura de Kubernetes e
 - ~~Primeiro Recurso VPC~~
 - ~~Terraform State~~
 - ~~Migrando o backend do tfstate~~
-- $ terraform fmt
-- Pre-commit hooks para Terraform
-- $ terraform validate
-- $ terraform console
-- $ terraform destroy
-- Subnets
-- terraform.tfvars (valores para variáveis)
-- Region dinâmica e tags para ALB
+- ~~$ terraform fmt~~
+- ~~Pre-commit hooks para Terraform~~
+- ~~$ terraform validate~~
+- ~~$ terraform console~~
+- ~~$ terraform destroy~~
+- ~~Subnets~~
+- ~~Variables~~
+- ~~terraform.tfvars (valores para variáveis)~~
+- ~~Region dinâmica e tags para ALB~~
 - Desacoplando tags usando locals
 - Private Subnets
 - Variable "project_name"
 - Internet Gateway e Route Table
 - NAT Gateway & EIP
 - Private Route Tables
+
+Seção 4: Introdução ao Terraform Modules
+- Introdução aos Terraform Modules
+- E nasce o módulo de Networking
+- Output do módulo
