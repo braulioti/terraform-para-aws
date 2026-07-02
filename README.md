@@ -40,9 +40,9 @@ Aprenda de forma 100% prática como construir uma infraestrutura de Kubernetes e
 - ~~Variables~~
 - ~~terraform.tfvars (valores para variáveis)~~
 - ~~Region dinâmica e tags para ALB~~
-- Desacoplando tags usando locals
-- Private Subnets
-- Variable "project_name"
+- ~~Desacoplando tags usando locals~~
+- ~~Private Subnets~~
+- ~~Variable "project_name"~~
 - Internet Gateway e Route Table
 - NAT Gateway & EIP
 - Private Route Tables
